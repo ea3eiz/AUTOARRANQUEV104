@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Icon=/home/pi/V10/ICONO_DMRPLUS_OFF.png
+Icon=/home/pi/V104/ICONO_DMRPLUS_OFF.png
 Exec=sh -c 'cd /home/pi/V10;sleep 10;lxterminal --geometry=72x15 -e sudo sh ejecutar_DMRPLUS.sh'
 Name=Abrir DMR+
 
